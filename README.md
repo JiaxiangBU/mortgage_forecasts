@@ -19,20 +19,21 @@ Badge](https://anaconda.org/jiaxiangbu/mortgage_forecasts/badges/downloads.svg)]
 Badge](https://anaconda.org/jiaxiangbu/mortgage_forecasts/badges/installer/conda.svg)](https://conda.anaconda.org/jiaxiangbu)
 <!-- badges: end -->
 
-The goal of mortgage\_forecasts is to make a miniaml example to build a
+The goal of `mortgage_forecasts` is to make a miniaml example to build a
 Python package. I learn it from DeFusco (2019). The sample data is
 downloaded from Freddie Mac (2019).
 
 ## Installation
 
-The development version from [Anaconda
-Cloud](https://anaconda.org/JiaxiangBU/mortgage_forecasts) with:
+You can install the released version of `mortgage_forecasts` from
+[Anaconda Cloud](https://anaconda.org/JiaxiangBU/mortgage_forecasts)
+with:
 
 ``` conda
 conda install -c jiaxiangbu mortgage_forecasts 
 ```
 
-The development version from [GitHub](https://github.com/) with:
+or the development version from [GitHub](https://github.com/) with:
 
 ``` conda
 pip install git+https://github.com/JiaxiangBU/mortgage_forecasts
