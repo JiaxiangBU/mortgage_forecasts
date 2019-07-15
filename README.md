@@ -32,6 +32,12 @@ Cloud](https://anaconda.org/JiaxiangBU/mortgage_forecasts) with:
 conda install -c jiaxiangbu mortgage_forecasts 
 ```
 
+The development version from [GitHub](https://github.com/) with:
+
+``` conda
+pip install git+https://github.com/JiaxiangBU/mortgage_forecasts
+```
+
 <div id="refs" class="references">
 
 <div id="ref-Albert_DeFusco2019">

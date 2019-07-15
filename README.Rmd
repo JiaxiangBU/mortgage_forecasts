@@ -34,3 +34,9 @@ The development version from [Anaconda Cloud](https://anaconda.org/JiaxiangBU/mo
 ```conda
 conda install -c jiaxiangbu mortgage_forecasts 
 ```
+
+The development version from [GitHub](https://github.com/) with:
+
+```conda
+pip install git+https://github.com/JiaxiangBU/mortgage_forecasts
+```
