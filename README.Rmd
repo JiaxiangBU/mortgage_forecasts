@@ -1,0 +1,36 @@
+---
+output: github_document
+bibliography: ../learn_dev_py_pkg/refs/add.bib
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+# mortgage_forecasts
+
+<!-- badges: start -->
+[![Anaconda-Server Badge](https://anaconda.org/jiaxiangbu/mortgage_forecasts/badges/version.svg)](https://anaconda.org/jiaxiangbu/mortgage_forecasts)
+[![Anaconda-Server Badge](https://anaconda.org/jiaxiangbu/mortgage_forecasts/badges/latest_release_date.svg)](https://anaconda.org/jiaxiangbu/mortgage_forecasts)
+[![Anaconda-Server Badge](https://anaconda.org/jiaxiangbu/mortgage_forecasts/badges/platforms.svg)](https://anaconda.org/jiaxiangbu/mortgage_forecasts)
+[![Anaconda-Server Badge](https://anaconda.org/jiaxiangbu/mortgage_forecasts/badges/license.svg)](https://anaconda.org/jiaxiangbu/mortgage_forecasts)
+[![Anaconda-Server Badge](https://anaconda.org/jiaxiangbu/mortgage_forecasts/badges/downloads.svg)](https://anaconda.org/jiaxiangbu/mortgage_forecasts)
+[![Anaconda-Server Badge](https://anaconda.org/jiaxiangbu/mortgage_forecasts/badges/installer/conda.svg)](https://conda.anaconda.org/jiaxiangbu)
+<!-- badges: end -->
+
+The goal of mortgage_forecasts is to make a miniaml example to build a Python package. I learn it from @Albert_DeFusco2019.
+The sample data is downloaded from @MORTGAGE30US.
+
+## Installation
+
+The development version from [Anaconda Cloud](https://anaconda.org/JiaxiangBU/mortgage_forecasts) with:
+
+```conda
+conda install -c jiaxiangbu mortgage_forecasts 
+```
