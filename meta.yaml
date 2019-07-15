@@ -15,6 +15,7 @@ requirements:
     run:
         - python >=2.7
         - pandas >=0.20
+        - numpy
         - statsmodels
         - scipy
     build:
